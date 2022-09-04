@@ -1,0 +1,249 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+   color: #40514E;
+   font-family: "Exo", sans-serif;
+  
+}
+
+.container{
+   
+}
+
+.top-container{
+    background-color:#dff6f0;
+    position: relative;
+    text-align: center;
+    height: 99vh;
+    
+}
+
+.first-cloud{
+    position: absolute;
+    top: 5%;
+    right: 20%;
+}
+
+.name-text{
+    font-family: "Sacramento", sans-serif;
+    font-size: 5.625rem;
+    color: #66bfbf;
+}
+.about-text{
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  color: rgb(78, 151, 151);
+  padding-top: 4%;
+  
+  
+}
+.text{
+    padding-top: 12%;
+   
+}
+
+.second-cloud{
+    position: absolute;
+    top: 55%;
+    left: 15%;
+    
+}
+
+.mid-container{
+ text-align: center;
+
+}
+
+hr {
+    border: none;
+    border-top: dotted #8ba3a3 5px;
+    width: 4%;
+    margin: 100px auto;
+  }
+
+  .hi{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.4rem;
+    color: rgb(78, 151, 151);
+  }
+
+  .mountain{
+    position: absolute;
+   bottom: 0;
+   right: 30%;
+  }
+
+  .profile-pic{
+    border-radius: 100%;
+    margin-top: 10%;
+    border-radius :100%;
+    height:400px;
+    width: 400px;
+
+  }
+
+  .hi{
+    margin-top: 2%;
+  }
+
+  .second-text{
+   margin: 2% 30%;
+    
+}
+.dash{
+    font-size: large;
+    margin: 4% auto;
+
+}
+
+.my-skills{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.computer{
+    border-radius: 50%;
+    height: 25%;
+    width: 25%;
+    float:left;
+    margin-right: 40px;
+    margin-top: -5%;
+    margin-left: 1%;
+    
+}
+
+.skills-content{
+    text-align: center;
+    margin: auto auto 30px auto;
+    padding-top: 40px;
+    margin-right: -10px;
+    line-height: 25px;
+    
+  }
+
+  .skills{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  color: rgb(78, 151, 151);
+}
+
+.things{
+ padding-left: 28%;
+ padding-top: 4% ;
+ font-family: "Merienda", Courier, monospace;
+}
+
+.my-projects{
+ margin-bottom: 20px;
+ margin-top: -70px;
+ padding-left: 24%;
+ padding-right: 25%;
+
+}
+
+.cell-tower{
+  border-radius: 100%;
+  height:25%;
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+  margin-right: 7%;
+    
+
+}
+
+.project-content{
+    padding-top: 35px;
+    font-size: 16px;
+    font-weight: 900;
+  
+    width: 100%;
+
+    
+}
+
+.projects{
+    padding-right: 35%;
+    font-family: "Merienda", Courier, monospace;
+}
+
+.bottom-container{
+ text-align: center;
+  
+   
+}
+
+.touch{
+    
+  text-align: center;
+}
+  
+  
+.get{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  color: rgb(78, 151, 151);
+  padding-bottom: 10px;
+}
+
+.touch-head{
+  font-family: "Merienda", Courier, monospace;
+  margin-bottom: 20px;
+}
+
+.touch-text{
+ padding: 0% 30%;
+ margin-bottom: 3%;
+}
+
+.btn{
+  background-color: #599bb3;
+  border-radius: 8px;
+  padding: 11px 16px;
+  text-decoration: none;
+  color: aliceblue;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  box-shadow: 0px 10px 14px -7px #276873;
+  display:inline-block;
+}
+
+.btn:hover {
+  background-color: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+  color: #40514E;
+}
+
+footer{
+  background-color: #276873;
+  padding: 6% 0px;
+  margin-top: 100px ;
+}
+
+.linked-in{
+  text-decoration: none;
+  padding: 20px;
+  color: aliceblue;
+}
+
+.facebook{
+  text-decoration: none;
+  padding: 20px;
+  color: aliceblue;
+}
+
+.twitter{
+  text-decoration: none;
+  color: aliceblue;
+   padding: 20px;
+}
+
+.copyright{
+  padding-top: 30px;
+  color: aliceblue;
+}
